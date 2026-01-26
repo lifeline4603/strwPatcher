@@ -1,6 +1,6 @@
 # Warning
 > category for strwPatcher
-> <img src="money.png" align="right" style="width:190px; height:auto;"/>
+> <img src="money.png" align="right" style="width:135px; height:auto;"/>
 
 this section is for exploits related to the economy, like givemoney, gambling tricks, etc. that may be ruining your economy.
 
