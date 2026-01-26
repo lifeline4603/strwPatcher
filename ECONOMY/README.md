@@ -1,4 +1,4 @@
-# Warning
+# Economy
 > category for strwPatcher
 > <img src="money.png" align="right" style="width:135px; height:auto;"/>
 
