@@ -1,6 +1,6 @@
 # Warning
 > category for strwPatcher
-> <img src="WARNING/warning.png" align="right" style="width:190px; height:auto;"/>
+> <img src="warning.png" align="right" style="width:190px; height:auto;"/>
 
 this section is for high level exploits, like backdoors, sql injections, etc. that are extremely dangerous if present.
 
