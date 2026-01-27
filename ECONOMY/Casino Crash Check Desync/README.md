@@ -1,6 +1,6 @@
 # Casino Crash Check Desync
 > known exploit of strwPatcher
-> <img src="cone.png" align="right" style="width:135px; height:auto;"/>
+> <img src="cone.png" align="right" style="width:180px; height:auto;"/>
 
 gmodstore link: https://www.gmodstore.com/market/view/crash-a-gambling-minigame
 
@@ -38,3 +38,4 @@ end)
 
 
 this obviously skips the better, and smarter fix which is to always round up the money deduction to the min/max if the value is under or above those, but for the third time, who cares. the nuclear option is funnier.
+
