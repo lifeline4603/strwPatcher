@@ -27,7 +27,7 @@ if your server doesn't have `sv_allowcslua 1` enabled, you won't be able to run 
 
 if you have issues running this script, don't add me on discord, but instead join the physgun discord (discord.gg/physgun) and @ me anywhere. I don't accept friend requests from randoms.
 
-## licence or whatever
+## license or whatever
 I am not gonna apply one of those stupid long 1000000 word licenses here for you to follow, so I am instead doing a very simple agreement. you are allowed to use this script at any time. you are only permitted to use this to aid in bulletproofing your server. using this script for any other reason is viewed as malignent and is not allowed. you may share this script around and make your own modifications to it, but you may not deface it in any ways such as removing the strwPatcher branding, original credits, or marketing it as your own.
 
 thank you :3
