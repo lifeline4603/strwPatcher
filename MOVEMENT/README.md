@@ -12,4 +12,4 @@ below you can find an index of all known exploits under this section
 - Defibrillator Teleportation
 - Player Teleportation
 - Unfreeze
-- Unlimited Ticks Processing
+
