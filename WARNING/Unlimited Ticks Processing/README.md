@@ -1,6 +1,6 @@
 # Unlimited Ticks Processing
 > known exploit of strwPatcher
-> <img src="cone.png" align="right" style="width:180px; height:auto;"/>
+> <img src="V.png" align="right" style="width:180px; height:auto;"/>
 
 console command: sv_maxusrcmdprocessticks - value: 0
 
@@ -17,3 +17,4 @@ there is a really old vulnerability that allows people to abuse this with cheats
 
 
 you can easily fix this vulnerability by setting the value back to its default setting of 24, and if required, higher. this has **no impact on server performance** of stability.
+
