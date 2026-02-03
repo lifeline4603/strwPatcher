@@ -1,6 +1,6 @@
 # VJ
 > known exploit of strwPatcher
-> <img src="cone.png" align="right" style="width:180px; height:auto;"/>
+> <img src="tool.png" align="right" style="width:180px; height:auto;"/>
 
 gmodstore link: https://steamcommunity.com/sharedfiles/filedetails/?id=131759821
 
@@ -13,5 +13,6 @@ fourtunately, there is no fix here, because the most recent version of vjbase fi
 
 github: https://github.com/DrVrej/VJ-Base
 workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=131759821
+
 
 
