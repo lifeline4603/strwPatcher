@@ -27,8 +27,6 @@ end)
 -- YESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 ```
 
-github: https://github.com/DrVrej/VJ-Base
-workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=131759821
 
 
 
