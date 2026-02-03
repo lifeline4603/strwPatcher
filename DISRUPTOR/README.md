@@ -1,6 +1,6 @@
 # Disruptor
 > category for strwPatcher
-> <img src="money.png" align="right" style="width:190px; height:auto;"/>
+> <img src="error.png" align="right" style="width:190px; height:auto;"/>
 
 this section is for exploits that cause major or minor server disruption, such as crash exploits, lag exploits or visual exploits.
 
@@ -18,3 +18,4 @@ below you can find an index of all known exploits under this section
 - Creep Up Lag
 - CMenu
 - CMenuTying
+
