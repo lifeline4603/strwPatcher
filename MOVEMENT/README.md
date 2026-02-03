@@ -1,6 +1,6 @@
 # Movement
 > category for strwPatcher
-> <img src="money.png" align="right" style="width:190px; height:auto;"/>
+> <img src="speedramp.png" align="right" style="width:190px; height:auto;"/>
 
 this section is for exploits that give players an advantage with movement, such as speedhacks, teleportation, etc.
 
@@ -12,4 +12,5 @@ below you can find an index of all known exploits under this section
 - Defibrillator Teleportation
 - Player Teleportation
 - Unfreeze
+
 
