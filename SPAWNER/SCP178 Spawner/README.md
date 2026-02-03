@@ -1,6 +1,6 @@
 # SCP178 Spawner
 > known exploit of strwPatcher
-> <img src="cone.png" align="right" style="width:180px; height:auto;"/>
+> <img src="178.png" align="right" style="width:180px; height:auto;"/>
 
 workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1455911028
 
@@ -26,6 +26,7 @@ end)
 
 -- YESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 ```
+
 
 
 
